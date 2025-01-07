@@ -2,7 +2,7 @@
 
 I'm Kacper Kubała, a passionate graphic designer, motion designer, and aspiring full-stack developer from Warsaw, Poland. I specialize in creating digital magic with tools like Adobe Creative Suite, Blender, and web technologies like HTML, CSS, and JavaScript. I'm on a journey to master 3D design and push the boundaries of creativity with innovative solutions.
 
-About Me
+<h2>About Me</h2>
 
 🎓 Graphic Design student at Akademia Finansów i Biznesu Vistula.
 
@@ -16,7 +16,7 @@ About Me
 
 🎮 Lover of The Witcher universe, with a special place for "Hearts of Stone."
 
-My Skills
+<h2>My Skills</h2>
 
 Design & Motion Graphics
 
@@ -50,13 +50,13 @@ Dynamic Portfolio: A showcase of my work with interactive features
 
 3D Designs: Exploring 3D modeling and animation to enhance my skill set
 
-Let's Connect
+<h2>Let's Connect</h2>
 
 LinkedIn
 
 Behance
 
-Portfolio
+<a href="https://hypercolor.pl/">Portfolio</a>
 
 Feel free to explore my repositories, where you'll find:
 
