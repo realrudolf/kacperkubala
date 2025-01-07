@@ -40,7 +40,7 @@ Marketing strategy and creative direction
 
 Event organization and promotional campaigns
 
-Projects I'm Working On
+<h1>Projects I'm Working On</h1>
 
 Hypercolor: My personal brand for digital art and design services
 
@@ -52,13 +52,13 @@ Dynamic Portfolio: A showcase of my work with interactive features
 
 <h2>Let's Connect</h2>
 
-LinkedIn
+<a href="https://www.linkedin.com/in/kacper-kubala/">LinkedIn</a>
 
-Behance
+<a href="https://www.behance.net/kacperkubala">Behance</a>
 
 <a href="https://hypercolor.pl/">Portfolio</a>
 
-Feel free to explore my repositories, where you'll find:
+<h2>Feel free to explore my repositories, where you'll find:</h2>
 
 Tools and scripts for graphic designers
 
@@ -66,4 +66,4 @@ Interactive web design projects
 
 Experiments with AI and automation
 
-I'm always open to collaborations and learning opportunities. Let's create something amazing together! 🌟
+<h3>I'm always open to collaborations and learning opportunities. Let's create something amazing together! 🌟</h3>
