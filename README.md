@@ -40,7 +40,7 @@ Marketing strategy and creative direction
 
 Event organization and promotional campaigns
 
-<h1>Projects I'm Working On</h1>
+<h2>Projects I'm Working On</h2>
 
 Hypercolor: My personal brand for digital art and design services
 
