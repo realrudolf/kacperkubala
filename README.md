@@ -1,4 +1,4 @@
-Hi there! 👋
+<h1>Hi there! 👋</h1>
 
 I'm Kacper Kubała, a passionate graphic designer, motion designer, and aspiring full-stack developer from Warsaw, Poland. I specialize in creating digital magic with tools like Adobe Creative Suite, Blender, and web technologies like HTML, CSS, and JavaScript. I'm on a journey to master 3D design and push the boundaries of creativity with innovative solutions.
 
